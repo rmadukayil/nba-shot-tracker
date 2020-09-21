@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
+    <title>NBA Shot Tracker</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+
+    <script src="d3.v5.js"></script>
+    <script src="d3-hexbin.v2.min.js"></script>
+    <script src="./dist/main.js"></script>
+
+    <link rel="stylesheet" href="css/general.css">
+    <link rel="stylesheet" href="css/spinner.css">
+</head>
+
+<body>
+    <h1>NBA Shot Tracker</h1>
+        <div class="main-div">
+            <div class="search-div">
+
+                <input class="searchfield initial" type="text" />
+                <ul class="searchresults initialresults"></ul>
+        
+                <div class="teamseason"></div>
+
+                <div class="seasonselect-div"></div>
+        
+                <h3 class="search"></h3>
+
+                <div class="games-arrows">
+                    <div class="leftarr"></div>
+                    <div class="games-div">
+                        <ul class="games"></ul>
+                    </div>
+                    <div class="rightarr"></div>
+                </div>
+        
+                <div class="quarters"></div>
+        
+                <div class="allbutton-div"></div>
+
+                <div class="breakdown-div"></div>
+            </div>
+            
+            <div id="svgcontainer"></div>
+        </div>    
+
+        <div class="lucky"></div>
+</body> 
+
+</html>
