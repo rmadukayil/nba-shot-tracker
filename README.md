@@ -18,7 +18,7 @@ Want a little more detail? Then, check out the FGM/FGA, shot type breakdown and 
 ## Demo
 Let's look at Russell Westbrook for the 2017-2018 season. 
 
-![here](/screenshots/WestbrookOverview.png)
+![ben simmons' shot plot](screenshots/WestbrookOverview.png)
 
 ## Stack
 * Vanilla JS
