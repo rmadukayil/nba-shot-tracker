@@ -23,8 +23,13 @@ Let's look at Russell Westbrook for the 2017-2018 season.
 We can also check out the season stats. 
 ![WestbrookBreakdown](screenshots/WestbrookSeasonBreakdown.PNG)
 
-Now let's look at an individual game - this time, we'll look at Stephen Curry. Specifically, we'll look at his game against the OKC Thunder on February 27th, 2016. 
+Now let's look at an individual game - this time, we'll look at Stephen Curry. 
+Specifically, we'll look at his game against the OKC Thunder on February 27th, 2016. 
 ![CurryOKC](screenshots/CurryFeb27.PNG)
+
+You'll notice it was a pretty OK game for him. 
+![CurryBoxScore](screenshots/BoxScore.PNG)
+
 
 ## Stack
 * Vanilla JS
